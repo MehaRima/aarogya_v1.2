@@ -1,4 +1,4 @@
-### aarogya_v1.2
+### Aarogya Ambulance Booking Service ``aarogya_v1.2``
 
 # Run the Application Locally
 
@@ -43,15 +43,15 @@
 
 9.Save 
 
-10.Browse the Aarogya Service Web Application
+10.Browse the `Aarogya Ambulance Booking Service` Web Application
 
 ### Login credentials
 
- # Admin 
+ #### Admin 
 - Username :- *admin*
 - Password :- *admin*
 
- # User 
+ #### User 
 - Username/Email :- *sb@g.com*
 - Password :- *sb@g*
 
