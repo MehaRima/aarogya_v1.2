@@ -2,16 +2,17 @@
 
 # Run the Application Locally
 
-## Requirements
+`Be sure to use the exact versions of the softwares/services for optimum performance of the project.`
+*Some functions may not work otherwise.*
 
-`Be sure to use the exact versions of the softwares/services for optimum performance of the project.Some functions may not work otherwise. `
+## Requirements
 
 - XAMPP : 
   - Download compatible version from [here](https://www.apachefriends.org/download.html)
 
 - phpMyAdmin : _version 4.4.14_
   - Download from [here](https://www.phpmyadmin.net/files/4.4.14.1/)
-  ### For [latest version](http://www.phpmyadmin.net)
+  #### For [latest version](http://www.phpmyadmin.net)
 
 - Host: 127.0.0.1
 - Server version: 5.6.26
