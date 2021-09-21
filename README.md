@@ -25,7 +25,7 @@
 
 1.Download the zip file `aarogya_v1.2.zip`
 
-2.Don't change any name of files.
+2.Don't change any name of the files.
 
 3.Extract the folder `aarogya_v1.2` under `C:>htdocs` as `C:>htdocs>aarogya_v1.2`
 
