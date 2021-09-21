@@ -1,8 +1,10 @@
-# aarogya_v1.2
+### aarogya_v1.2
 
 # Run the Application Locally
 
 ## Requirements
+
+`Be sure to use the exact versions of the softwares/services for optimum performance of the project.Some functions may not work otherwise. `
 
 - XAMPP : 
   - Download compatible version from [here](https://www.apachefriends.org/download.html)
@@ -15,7 +17,7 @@
 - Server version: 5.6.26
 - PHP Version: 5.5.28
 
-### Extract this -> [aarogya_v1.2.zip](https://github.com/MehaRima/aarogya_v1.2/blob/master/carrental.zip)
+### Extract this -> [aarogya_v1.2.zip](https://github.com/MehaRima/aarogya_v1.2/blob/master/aarogya_v1.2.zip)
 
 ### _Steps_
 
@@ -23,19 +25,25 @@
 
 2.Don't change any name of files.
 
-3.Extracted folder `aarogya_v1.2` under `C:>htdocs` as `C:>htdocs>aarogya_v1.2`
+3.Extract the folder `aarogya_v1.2` under `C:>htdocs` as `C:>htdocs>aarogya_v1.2`
 
 4.Type this in web browser
  - http://localhost:85/aarogya_v1.2/  (80/8080 can be used in place of 85 if port allocation problem arises)
  
-5.Go to Xampp control Panel and Start Apache & MySQL
+5.Go to Xampp control Panel and *Start* `Apache` & `MySQL`
 
 6.Again,type in browser
  - http://localhost:85/phpmyadmin/
  
 7.Create a database: `aarogya_v1.2_db`
 
-8.Import file: [aarogya_v1.2_db.sql](https://github.com/MehaRima/aarogya_v1.2/blob/master/aarogya_v1.2_db.sql) in the Import section of the database created
+8.Import file: [aarogya_v1.2_db.sql](https://github.com/MehaRima/aarogya_v1.2/blob/master/aarogya_v1.2_db.sql) in the Import section of the database created.
+
+9.Save 
+
+10.Browse the Aarogya Service Web Application
+
+### Login credentials
 
  # Admin 
 - Username :- *admin*
@@ -49,11 +57,8 @@
 ` Similarly for the user , create one entry of your own in the database under the table name : tblusers  `
 
 
-9.Save 
-
-10.Browse the Aarogya Service Web Application
 
 ### Sincerely
 
-### _SAHELI BASU_!
+### _SAHELI BASU_ !
 
