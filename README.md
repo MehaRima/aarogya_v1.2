@@ -3,6 +3,7 @@
 # Run the Application Locally
 
 `Be sure to use the exact versions of the softwares/services for optimum performance of the project.`
+
 *Some functions may not work otherwise.*
 
 ## Requirements
