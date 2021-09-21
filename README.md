@@ -12,8 +12,8 @@
   - Download compatible version from [here](https://www.apachefriends.org/download.html)
 
 - phpMyAdmin : _version 4.4.14_
-  - Download from [here](https://www.phpmyadmin.net/files/4.4.14.1/)
-  #### For [latest version](http://www.phpmyadmin.net)
+  - Download _version 4.4.14_ from [here](https://www.phpmyadmin.net/files/4.4.14.1/)
+  - #### For latest version [visit](http://www.phpmyadmin.net)
 
 - Host: 127.0.0.1
 - Server version: 5.6.26
